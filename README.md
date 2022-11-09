@@ -1,5 +1,6 @@
 # yamdb_final
 ![yamdb](https://github.com/ilshat2/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 проект по созданию REST-API для медиасервиса Yamdb собирающего отзывы пользователей на произведения: «Книги», «Фильмы», «Музыка».
 
 ### 1. Авторизации и роли
