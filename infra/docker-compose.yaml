@@ -9,7 +9,7 @@ services:
 
 
   web:
-    image: ilshat2/api_yamdb_final:v1.11.2022
+    image: ilshat2/yamdb_final
     restart: always
     volumes:
       - static_value:/app/static/
